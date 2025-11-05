@@ -6,11 +6,11 @@ A concise, copy-paste Gem configuration and companion README to run an expert Aâ
 
 ## Overview
 
-**Initially**: This repository provides a polished Gem instruction set and supporting materials to create a reliable Aâ€‘Level tutor inside Google Gemini.
+This repository provides a polished Gem instruction set and supporting materials to create a reliable Aâ€‘Level tutor inside Google Gemini.
 
-**Next**: The Gem explains exam-style problems with a topic overview, numbered step-by-step solutions, and a clear final answer.
+The Gem explains exam-style problems with a topic overview, numbered step-by-step solutions, and a clear final answer.
 
-**Finally**: It helps students learn by defining symbols, avoiding jargon, and giving quick tips for memory and exam technique.
+It helps students learn by defining symbols, avoiding jargon, and giving quick tips for memory and exam technique.
 
 ---
 
@@ -40,7 +40,7 @@ A concise, copy-paste Gem configuration and companion README to run an expert Aâ
 
 ---
 
-## Example prompt (copy/paste)
+## Example prompt 
 
 ```
 Student: Solve d/dx (3x^2 + 4x) and explain using the power rule.
